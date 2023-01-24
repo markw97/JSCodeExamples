@@ -1,0 +1,20 @@
+{
+  "name": "jsquestions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^26.0.24",
+    "babel-plugin-syntax-class-properties": "^6.13.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "jest": "^27.5.1",
+    "jest-cli": "^29.3.1",
+    "jest-html-reporter": "^3.7.0"
+  }
+}
